@@ -1,0 +1,6 @@
+{
+  "name": "Horas extras por turno",
+  "description": "Painel de horas extras por turno da U&M Mineração e Construção (App Luis). Leitura de planilha de ponto, análise por turno e compartilhamento com dados fixados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
